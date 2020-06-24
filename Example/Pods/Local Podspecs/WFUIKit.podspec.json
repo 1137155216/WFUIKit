@@ -1,0 +1,22 @@
+{
+  "name": "WFUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of WFUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1137155216/WFUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1137155216": "1137155216@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1137155216/WFUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WFUIKit/Classes/**/*"
+}
